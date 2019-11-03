@@ -105,6 +105,11 @@ let resumeData = {
         "description":"Vishwanath is one of the hardest working developers I've had the pleasure of working with. Having him on the project certainly made everything run smoother. In addition to his work ethic, he is very technically sound and would make a great addition to any technical team.",
         "name":"Suhas Nayak, Full stack developer at IBM",
         "LinkedIn":"https://www.linkedin.com/in/vi-patil/"
+      },
+      {
+        "description":"Vishwanath Patil is an amazing person to work with. He is very solution oriented with exceptional problem solving skills. Vishwanath’s deeper understanding of the technical nuances always helped us during the tough time of our project, where work around was inevitable.Vishwanath is always ready to take up new challenges and to prove his mettle.",
+        "name":"Sandeep Sagar Muralidhar, Former associate system engineer at IBM",
+        "LinkedIn":"https://www.linkedin.com/in/vi-patil/"
       }
     ]
   }
